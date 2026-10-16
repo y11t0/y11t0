@@ -4,4 +4,4 @@
 - 👋 Hi, I’m @y11t0
 - 👀 I’m interested in General Technology and AI
 - 🌱 I’m currently learning AI & ML
-- 📫 How to reach me 'hi@y11t0.tech'
+- 📫 How to reach me 'hi@y11t0.me'
